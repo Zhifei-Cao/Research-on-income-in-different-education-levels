@@ -108,18 +108,3 @@ THe survey contains limitations as well. For example, there are lots of missing 
 
 
 # References
-
-- Stephenson, Laura B; Harell, Allison; Rubenson, Daniel; Loewen, Peter John, 2020, '2019 Canadian Election Study - Online Survey', https://doi.org/10.7910/DVN/DUS88V, Harvard Dataverse, V1
-- Paul A. Hodgetts and Rohan Alexander (2020). cesR: Access the CES Datasets a Little Easier.. R package version 0.1.0.
--  Hadley Wickham, Jim Hester and Winston Chang (2020). devtools: Tools to Make Developing R Packages Easier. https://devtools.r-lib.org/,https://github.com/r-lib/devtools.
-- R Core Team (2020). R: A language and environment for statistical computing. R, Foundation for Statistical Computing, Vienna, Austria. URL, https://www.R-project.org/.
-- JJ Allaire and Yihui Xie and Jonathan McPherson and Javier Luraschi and Kevin Ushey and Aron Atkins and Hadley Wickham and Joe Cheng and Winston Chang and Richard Iannone (2020). rmarkdown: Dynamic Documents for R. R package version 2.3. URL https://rmarkdown.rstudio.com.
-- Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
-  https://doi.org/10.21105/joss.01686
-- Zeileis A, Fisher JC, Hornik K, Ihaka R, McWhite CD, Murrell P, Stauffer R, Wilke CO (2019).
-“colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes.” Technical Report
-1903.06490, arXiv.org E-Print Archive. <URL: http://arxiv.org/abs/1903.06490>.
-- Paul A. Hodgetts and Rohan Alexander (2020). cesR: Access the CES Datasets a Little Easier.. R
-  package version 0.1.0.
-- Joseph Larmarange (2020). labelled: Manipulating Labelled Data. R package version 2.6.0.
-  https://CRAN.R-project.org/package=labelled
